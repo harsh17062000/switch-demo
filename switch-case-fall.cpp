@@ -27,7 +27,7 @@ int main(){
     cout << "30 days" << "\n ";
     break;
     default:
-    cout << " invalid " ;
+    cout << " invalid number " ;
 
 }
 }
